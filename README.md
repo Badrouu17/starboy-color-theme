@@ -1,6 +1,6 @@
 # Starboy color theme 👩‍🚀💜
 
-<img src="" alt="Preview">
+<img src="https://github.com/Badrouu17/starboy-color-theme/blob/master/preview.png" alt="Preview">
 
 ## Variants
 
