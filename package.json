@@ -1,0 +1,42 @@
+{
+    "name": "starboy-theme",
+    "displayName": "starboy color theme",
+    "description": "lit 🔥 VS Code theme inspired by The Weeknd starboy music video.",
+    "version": "1.0.0",
+    "publisher": "badrouu-laabed",
+    "license": "SEE LICENSE IN LICENSE.md",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Badrouu17/starboy-color-theme"
+    },
+    "keywords": [
+        "Theme",
+        "Dark Theme",
+        "Starboy",
+        "starboy color theme",
+        "the weeknd"
+    ],
+    "engines": {
+        "vscode": "^1.48.0"
+    },
+    "galleryBanner": {
+        "color": "#061526",
+        "theme": "dark"
+    },
+    "engines": {
+        "vscode": "^1.17.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "icon": "icon.png",
+    "contributes": {
+        "themes": [
+            {
+                "label": "starboy color theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/starboy-color-theme.json"
+            }
+        ]
+    }
+}
