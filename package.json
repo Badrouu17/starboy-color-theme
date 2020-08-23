@@ -1,6 +1,6 @@
 {
     "name": "starboy-theme",
-    "displayName": "starboy color theme",
+    "displayName": "Starboy Color Theme",
     "description": "lit 🔥 VS Code theme inspired by The Weeknd starboy music video.",
     "version": "1.0.0",
     "publisher": "badrouu-laabed",
@@ -30,7 +30,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "starboy color theme",
+                "label": "Starboy Color Theme",
                 "uiTheme": "vs-dark",
                 "path": "./themes/starboy-color-theme.json"
             }

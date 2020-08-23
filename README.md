@@ -1,4 +1,4 @@
-# Starboy color theme 👩‍🚀💜
+# Starboy Color Theme 👩‍🚀💜
 
 <img src="https://res.cloudinary.com/batn05000/image/upload/v1598193942/preview_am0xnj.png" alt="Preview">
 
