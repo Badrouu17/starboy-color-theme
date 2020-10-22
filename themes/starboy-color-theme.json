@@ -19,7 +19,7 @@
     "editorBracketMatch.border": "#82aaffbb",
     "editorBracketMatch.background": "#222436",
     "editorWhitespace.foreground": "#c8d3f540",
-    "editor.background": "#222436",
+    "editor.background": "#26283b",
     "editor.foreground": "#c8d3f5",
     "editor.lineHighlightBackground": "#2f334d",
     "editor.selectionBackground": "#828bb850",
@@ -1119,6 +1119,42 @@
       "settings": {
         "foreground": "#C099FF"
       }
+    },
+    {
+      "name": "cssp",
+      "scope": ["support.type.property-name.css","support.type.vendored.property-name.css","support.function.misc.css"],
+      "settings": {
+        "foreground": "#86E1FC"
+      }
+    },
+    {
+      "name": "cssmsure",
+      "scope": ["keyword.other.unit"],
+      "settings": {
+        "foreground": "#FF966C"
+      }
+    },
+    {
+      "name": "cssidselecter",
+      "scope": ["punctuation.definition.entity.css"],
+      "settings": {
+        "foreground": "#86E1FC"
+      }
+    },
+    {
+      "name": "jsalgo",
+      "scope": ["entity.name.function.js","meta.brace.curly.js","meta.brace.round.js"],
+      "settings": {
+        "foreground": "#86E1FC"
+      }
+    },
+    {
+      "name": "jsbuiltin",
+      "scope": ["support.class.builtin.js"],
+      "settings": {
+        "foreground": "#FFC777"
+      }
     }
   ]
 }
+
