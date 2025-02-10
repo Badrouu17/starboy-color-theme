@@ -1,8 +1,8 @@
 {
-    "name": "starboy-theme",
-    "displayName": "Starboy Color Theme",
-    "description": "lit 🔥 VS Code theme inspired by The Weeknd starboy music video.",
-    "version": "1.5.0",
+    "name": "tokyo-lights-theme",
+    "displayName": "Tokyo Lights Theme",
+    "description": "VS Code theme inspired by the lights of a tokyo night.",
+    "version": "2.0.0",
     "publisher": "badrouu-laabed",
     "license": "SEE LICENSE IN LICENSE.md",
     "repository": {
@@ -12,9 +12,9 @@
     "keywords": [
         "Theme",
         "Dark Theme",
-        "Starboy",
-        "starboy color theme",
-        "the weeknd"
+        "Tokyo",
+        "Tokyo Lights theme",
+        "Lights"
     ],
     "engines": {
         "vscode": "^1.48.0"
@@ -30,9 +30,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "Starboy Color Theme",
+                "label": "Tokyo Lights Theme",
                 "uiTheme": "vs-dark",
-                "path": "./themes/starboy-color-theme.json"
+                "path": "./themes/Tokyo-lights-theme.json"
             }
         ]
     }
